@@ -23,7 +23,8 @@ that have not been completed and learn many new things 🆕 so that they remain 
 
 ## Current activity
 
-- 💻 Founder at  <a href="https://Kitalearning.com">Kitalearning.com</a>
+- 💻 Founder & CEO at  <a href="https://Kitalearning.com">Kitalearning.com</a>
+- 💻 Founder & CEO at  <a href="https://poinku.id">Poinku.id</a>
 - 📖 I’m currently learning Mobile Apps With Flutter;
 - 💻 Tradding in binary options
 - 📖 I’m currently learning data analys;
