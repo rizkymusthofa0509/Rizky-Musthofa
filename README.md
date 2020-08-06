@@ -31,7 +31,7 @@ that have not been completed and learn many new things 🆕 so that they remain 
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rizkymusthofa@gmail.com to reach me.
+- 📫 Please email via rizkymusthofa0509@gmail.com to reach me.
 - 📝 See my <a href="https://www.linkedin.com/in/rizkymusthofa/">linked.in</a> to get more info.
 
 ## Get in touch
